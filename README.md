@@ -1,6 +1,6 @@
-# IDAS
+# yuBI
 
-This project is initialized with [AntDesign](https://pro.ant.design). Follow is the quick guide for how to use.
+This project is initialized with [yuBI](https://pro.ant.design). Follow is the quick guide for how to use.
 
 ## Environment Prepare
 
