@@ -1,4 +1,4 @@
-# yuBI
+# IDAS
 
 This project is initialized with [AntDesign](https://pro.ant.design). Follow is the quick guide for how to use.
 
