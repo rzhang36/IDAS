@@ -1,12 +1,12 @@
-package com.yupi.springbootinit.bizmq;
+package com.idas.springbootinit.bizmq;
 
 import org.springframework.amqp.rabbit.core.RabbitTemplate;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.Resource;
 
-import static com.yupi.springbootinit.bizmq.BiMqConstant.BI_EXCHANGE_NAME;
-import static com.yupi.springbootinit.bizmq.BiMqConstant.BI_ROUTING_KEY;
+import static com.idas.springbootinit.bizmq.BiMqConstant.BI_EXCHANGE_NAME;
+import static com.idas.springbootinit.bizmq.BiMqConstant.BI_ROUTING_KEY;
 
 @Component
 public class MessageProducer {

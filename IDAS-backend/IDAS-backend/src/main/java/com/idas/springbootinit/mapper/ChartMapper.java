@@ -1,10 +1,10 @@
-package com.yupi.springbootinit.mapper;
+package com.idas.springbootinit.mapper;
 
-import com.yupi.springbootinit.model.entity.Chart;
+import com.idas.springbootinit.model.entity.Chart;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @Entity com.yupi.springbootinit.model.entity.Chart
+ * @Entity com.idas.springbootinit.model.entity.Chart
  */
 public interface ChartMapper extends BaseMapper<Chart> {
 

@@ -1,6 +1,6 @@
-package com.yupi.springbootinit.service;
+package com.idas.springbootinit.service;
 
-import com.yupi.springbootinit.model.entity.User;
+import com.idas.springbootinit.model.entity.User;
 import javax.annotation.Resource;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeAll;

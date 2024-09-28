@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.model.dto.postthumb;
+package com.idas.springbootinit.model.dto.postthumb;
 
 import java.io.Serializable;
 import lombok.Data;

@@ -1,11 +1,11 @@
-package com.yupi.springbootinit.service;
+package com.idas.springbootinit.service;
 
 import com.baomidou.mybatisplus.core.conditions.query.QueryWrapper;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.yupi.springbootinit.model.dto.post.PostQueryRequest;
-import com.yupi.springbootinit.model.entity.Post;
-import com.yupi.springbootinit.model.vo.PostVO;
+import com.idas.springbootinit.model.dto.post.PostQueryRequest;
+import com.idas.springbootinit.model.entity.Post;
+import com.idas.springbootinit.model.vo.PostVO;
 import javax.servlet.http.HttpServletRequest;
 
 /**

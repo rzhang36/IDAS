@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.openAITest;
+package com.idas.springbootinit.openAITest;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -6,8 +6,8 @@ import okhttp3.*;
 
 import java.io.IOException;
 
-import static com.yupi.springbootinit.constant.OpenAiConstant.API_KEY;
-import static com.yupi.springbootinit.constant.OpenAiConstant.API_URL;
+import static com.idas.springbootinit.constant.OpenAiConstant.API_KEY;
+import static com.idas.springbootinit.constant.OpenAiConstant.API_URL;
 
 public class OpenAIApiExample {
 

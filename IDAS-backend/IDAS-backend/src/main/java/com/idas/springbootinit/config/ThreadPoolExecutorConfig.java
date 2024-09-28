@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.config;
+package com.idas.springbootinit.config;
 
 import lombok.Data;
 import org.jetbrains.annotations.NotNull;

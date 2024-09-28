@@ -1,7 +1,7 @@
-package com.yupi.springbootinit.model.dto.postfavour;
+package com.idas.springbootinit.model.dto.postfavour;
 
-import com.yupi.springbootinit.common.PageRequest;
-import com.yupi.springbootinit.model.dto.post.PostQueryRequest;
+import com.idas.springbootinit.common.PageRequest;
+import com.idas.springbootinit.model.dto.post.PostQueryRequest;
 import java.io.Serializable;
 import lombok.Data;
 import lombok.EqualsAndHashCode;

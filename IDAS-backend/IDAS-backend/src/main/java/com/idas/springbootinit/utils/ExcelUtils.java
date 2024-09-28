@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.utils;
+package com.idas.springbootinit.utils;
 
 import cn.hutool.core.collection.CollUtil;
 import com.alibaba.excel.EasyExcel;

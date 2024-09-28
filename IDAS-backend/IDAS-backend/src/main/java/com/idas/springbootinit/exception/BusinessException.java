@@ -1,6 +1,6 @@
-package com.yupi.springbootinit.exception;
+package com.idas.springbootinit.exception;
 
-import com.yupi.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.common.ErrorCode;
 
 /**
  * 自定义异常类

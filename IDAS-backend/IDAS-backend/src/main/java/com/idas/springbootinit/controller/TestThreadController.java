@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.controller;
+package com.idas.springbootinit.controller;
 
 
 import cn.hutool.json.JSONUtil;

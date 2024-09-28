@@ -1,9 +1,9 @@
-package com.yupi.springbootinit.job.once;
+package com.idas.springbootinit.job.once;
 
-import com.yupi.springbootinit.esdao.PostEsDao;
-import com.yupi.springbootinit.model.dto.post.PostEsDTO;
-import com.yupi.springbootinit.model.entity.Post;
-import com.yupi.springbootinit.service.PostService;
+import com.idas.springbootinit.esdao.PostEsDao;
+import com.idas.springbootinit.model.dto.post.PostEsDTO;
+import com.idas.springbootinit.model.entity.Post;
+import com.idas.springbootinit.service.PostService;
 import java.util.List;
 import java.util.stream.Collectors;
 import javax.annotation.Resource;

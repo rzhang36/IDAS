@@ -1,13 +1,13 @@
-package com.yupi.springbootinit.controller;
+package com.idas.springbootinit.controller;
 
-import com.yupi.springbootinit.common.BaseResponse;
-import com.yupi.springbootinit.common.ErrorCode;
-import com.yupi.springbootinit.common.ResultUtils;
-import com.yupi.springbootinit.exception.BusinessException;
-import com.yupi.springbootinit.model.dto.postthumb.PostThumbAddRequest;
-import com.yupi.springbootinit.model.entity.User;
-import com.yupi.springbootinit.service.PostThumbService;
-import com.yupi.springbootinit.service.UserService;
+import com.idas.springbootinit.common.BaseResponse;
+import com.idas.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.common.ResultUtils;
+import com.idas.springbootinit.exception.BusinessException;
+import com.idas.springbootinit.model.dto.postthumb.PostThumbAddRequest;
+import com.idas.springbootinit.model.entity.User;
+import com.idas.springbootinit.service.PostThumbService;
+import com.idas.springbootinit.service.UserService;
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 import lombok.extern.slf4j.Slf4j;

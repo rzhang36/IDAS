@@ -1,16 +1,16 @@
-package com.yupi.springbootinit.controller;
+package com.idas.springbootinit.controller;
 
 import cn.hutool.core.io.FileUtil;
-import com.yupi.springbootinit.common.BaseResponse;
-import com.yupi.springbootinit.common.ErrorCode;
-import com.yupi.springbootinit.common.ResultUtils;
-import com.yupi.springbootinit.constant.FileConstant;
-import com.yupi.springbootinit.exception.BusinessException;
-import com.yupi.springbootinit.manager.CosManager;
-import com.yupi.springbootinit.model.dto.file.UploadFileRequest;
-import com.yupi.springbootinit.model.entity.User;
-import com.yupi.springbootinit.model.enums.FileUploadBizEnum;
-import com.yupi.springbootinit.service.UserService;
+import com.idas.springbootinit.common.BaseResponse;
+import com.idas.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.common.ResultUtils;
+import com.idas.springbootinit.constant.FileConstant;
+import com.idas.springbootinit.exception.BusinessException;
+import com.idas.springbootinit.manager.CosManager;
+import com.idas.springbootinit.model.dto.file.UploadFileRequest;
+import com.idas.springbootinit.model.entity.User;
+import com.idas.springbootinit.model.enums.FileUploadBizEnum;
+import com.idas.springbootinit.service.UserService;
 import java.io.File;
 import java.util.Arrays;
 import javax.annotation.Resource;

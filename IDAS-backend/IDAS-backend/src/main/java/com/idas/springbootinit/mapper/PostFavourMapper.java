@@ -1,12 +1,12 @@
-package com.yupi.springbootinit.mapper;
+package com.idas.springbootinit.mapper;
 
 import com.baomidou.mybatisplus.core.conditions.Wrapper;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 import com.baomidou.mybatisplus.core.metadata.IPage;
 import com.baomidou.mybatisplus.core.toolkit.Constants;
 import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
-import com.yupi.springbootinit.model.entity.Post;
-import com.yupi.springbootinit.model.entity.PostFavour;
+import com.idas.springbootinit.model.entity.Post;
+import com.idas.springbootinit.model.entity.PostFavour;
 import org.apache.ibatis.annotations.Param;
 
 /**

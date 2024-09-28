@@ -1,10 +1,10 @@
-package com.yupi.springbootinit.mapper;
+package com.idas.springbootinit.mapper;
 
-import com.yupi.springbootinit.model.entity.User;
+import com.idas.springbootinit.model.entity.User;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
 
 /**
- * @Entity com.yupi.springbootinit.model.entity.User
+ * @Entity com.idas.springbootinit.model.entity.User
  */
 public interface UserMapper extends BaseMapper<User> {
 

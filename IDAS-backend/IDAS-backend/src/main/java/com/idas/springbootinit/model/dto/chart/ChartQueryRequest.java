@@ -1,6 +1,6 @@
-package com.yupi.springbootinit.model.dto.chart;
+package com.idas.springbootinit.model.dto.chart;
 
-import com.yupi.springbootinit.common.PageRequest;
+import com.idas.springbootinit.common.PageRequest;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 

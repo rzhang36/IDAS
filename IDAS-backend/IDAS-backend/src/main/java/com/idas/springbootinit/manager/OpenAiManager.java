@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.manager;
+package com.idas.springbootinit.manager;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -7,7 +7,7 @@ import org.springframework.stereotype.Service;
 
 import java.io.IOException;
 
-import static com.yupi.springbootinit.constant.OpenAiConstant.*;
+import static com.idas.springbootinit.constant.OpenAiConstant.*;
 
 @Service
 public class OpenAiManager {

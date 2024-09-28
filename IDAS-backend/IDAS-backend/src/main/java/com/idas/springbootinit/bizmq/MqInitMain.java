@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.bizmq;
+package com.idas.springbootinit.bizmq;
 
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;

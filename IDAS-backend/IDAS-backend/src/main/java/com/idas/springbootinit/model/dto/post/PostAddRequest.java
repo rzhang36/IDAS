@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.model.dto.post;
+package com.idas.springbootinit.model.dto.post;
 
 import java.io.Serializable;
 import java.util.List;

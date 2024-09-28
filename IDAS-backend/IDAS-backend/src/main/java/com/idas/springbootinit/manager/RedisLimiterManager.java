@@ -1,13 +1,13 @@
-package com.yupi.springbootinit.manager;
+package com.idas.springbootinit.manager;
 
-import com.yupi.springbootinit.exception.BusinessException;
+import com.idas.springbootinit.exception.BusinessException;
 import org.redisson.api.RRateLimiter;
 import org.redisson.api.RateIntervalUnit;
 import org.redisson.api.RateType;
 import org.springframework.stereotype.Service;
 import org.redisson.api.RedissonClient;
 import javax.annotation.Resource;
-import com.yupi.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.common.ErrorCode;
 
 @Service
 public class RedisLimiterManager {

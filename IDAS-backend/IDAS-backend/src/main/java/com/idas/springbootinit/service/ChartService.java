@@ -1,9 +1,9 @@
-package com.yupi.springbootinit.service;
+package com.idas.springbootinit.service;
 
-import com.yupi.springbootinit.model.entity.Chart;
+import com.idas.springbootinit.model.entity.Chart;
 import com.baomidou.mybatisplus.extension.service.IService;
-import com.yupi.springbootinit.model.entity.User;
-import com.yupi.springbootinit.model.vo.BiResponse;
+import com.idas.springbootinit.model.entity.User;
+import com.idas.springbootinit.model.vo.BiResponse;
 import org.springframework.web.multipart.MultipartFile;
 
 /**

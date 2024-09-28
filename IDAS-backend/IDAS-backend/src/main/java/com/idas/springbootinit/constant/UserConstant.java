@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.constant;
+package com.idas.springbootinit.constant;
 
 /**
  * 用户常量

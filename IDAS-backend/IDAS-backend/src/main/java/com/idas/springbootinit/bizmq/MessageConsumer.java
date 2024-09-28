@@ -1,13 +1,13 @@
-package com.yupi.springbootinit.bizmq;
+package com.idas.springbootinit.bizmq;
 
 import com.rabbitmq.client.Channel;
-import com.yupi.springbootinit.common.ErrorCode;
-import com.yupi.springbootinit.constant.CommonConstant;
-import com.yupi.springbootinit.exception.BusinessException;
-import com.yupi.springbootinit.manager.AiManager;
-import com.yupi.springbootinit.manager.OpenAiManager;
-import com.yupi.springbootinit.model.entity.Chart;
-import com.yupi.springbootinit.service.ChartService;
+import com.idas.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.constant.CommonConstant;
+import com.idas.springbootinit.exception.BusinessException;
+import com.idas.springbootinit.manager.AiManager;
+import com.idas.springbootinit.manager.OpenAiManager;
+import com.idas.springbootinit.model.entity.Chart;
+import com.idas.springbootinit.service.ChartService;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;
 import org.apache.commons.lang3.StringUtils;

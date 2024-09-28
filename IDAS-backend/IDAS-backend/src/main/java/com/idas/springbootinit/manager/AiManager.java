@@ -1,12 +1,12 @@
-package com.yupi.springbootinit.manager;
+package com.idas.springbootinit.manager;
 
 
-import com.yupi.springbootinit.common.ErrorCode;
-import com.yupi.springbootinit.exception.BusinessException;
-import com.yupi.yucongming.dev.client.YuCongMingClient;
-import com.yupi.yucongming.dev.common.BaseResponse;
-import com.yupi.yucongming.dev.model.DevChatRequest;
-import com.yupi.yucongming.dev.model.DevChatResponse;
+import com.idas.springbootinit.common.ErrorCode;
+import com.idas.springbootinit.exception.BusinessException;
+import com.idas.yucongming.dev.client.YuCongMingClient;
+import com.idas.yucongming.dev.common.BaseResponse;
+import com.idas.yucongming.dev.model.DevChatRequest;
+import com.idas.yucongming.dev.model.DevChatResponse;
 import org.springframework.stereotype.Service;
 
 import javax.annotation.Resource;

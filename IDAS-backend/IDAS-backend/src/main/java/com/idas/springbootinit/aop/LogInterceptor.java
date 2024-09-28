@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.aop;
+package com.idas.springbootinit.aop;
 
 import java.util.UUID;
 import javax.servlet.http.HttpServletRequest;
@@ -27,7 +27,7 @@ public class LogInterceptor {
     /**
      * 执行拦截
      */
-    @Around("execution(* com.yupi.springbootinit.controller.*.*(..))")
+    @Around("execution(* com.idas.springbootinit.controller.*.*(..))")
     public Object doInterceptor(ProceedingJoinPoint point) throws Throwable {
         // 计时
         StopWatch stopWatch = new StopWatch();

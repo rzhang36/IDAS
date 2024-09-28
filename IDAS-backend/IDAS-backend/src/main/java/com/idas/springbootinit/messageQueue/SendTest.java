@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.messageQueue;
+package com.idas.springbootinit.messageQueue;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;

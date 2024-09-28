@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.service;
+package com.idas.springbootinit.service;
 
 import javax.annotation.Resource;
 import org.junit.jupiter.api.Assertions;

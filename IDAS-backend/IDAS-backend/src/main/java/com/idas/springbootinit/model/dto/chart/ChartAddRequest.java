@@ -1,4 +1,4 @@
-package com.yupi.springbootinit.model.dto.chart;
+package com.idas.springbootinit.model.dto.chart;
 
 import lombok.Data;
 
