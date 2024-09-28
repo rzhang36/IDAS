@@ -8,7 +8,7 @@ public interface OpenAiConstant {
     /**
      * OpenAI API Key
      */
-    String TEST_API_KEY = "Replace with the correct API key";
+    String TEST_TEST_API_KEY = "Replace with the correct API key";
 
     /**
      * OpenAI API URL

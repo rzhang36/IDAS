@@ -6,7 +6,7 @@ import okhttp3.*;
 
 import java.io.IOException;
 
-import static com.idas.springbootinit.constant.OpenAiConstant.API_KEY;
+import static com.idas.springbootinit.constant.OpenAiConstant.TEST_API_KEY;
 import static com.idas.springbootinit.constant.OpenAiConstant.API_URL;
 
 public class OpenAIApiExample {
@@ -28,7 +28,7 @@ public class OpenAIApiExample {
         Request request = new Request.Builder()
                 .url(API_URL)
                 .post(RequestBody.create(json, MediaType.parse("application/json")))
-                .addHeader("Authorization", "Bearer " + API_KEY)
+                .addHeader("Authorization", "Bearer " + TEST_API_KEY)
                 .build();
 
         // Make the request
