@@ -10,7 +10,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.idas</groupId>
-    <artifactId>yubi-backend</artifactId>
+    <artifactId>IDAS-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>yubi-backend</name>
     <properties>
